@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Geovative Solutions GeoTours" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<metadata>
+  <name>Atlanta, Georgia</name>
+  <desc>Starting in downtown Atlanta, tour the heart of the city from monuments of the civil war to institutions of civil rights.  Atlanta, jewel of the South, is a world class city, an epicenter for finiancial, transportation, technology, sports, and entertainment.</desc>
+  <author>
+    <name>My Community Maps, using GeoTours</name>
+    <link href="http://www.geovative.com/view?t=MI">
+      <text>Atlanta, Georgia</text>
+    </link>
+  </author>
+  <link href="http://www.geovative.com/view?t=MI">
+    <text>Atlanta, Georgia</text>
+  </link>
+  <time>2007-03-07T07:51:35</time>
+  <keywords>historic
+atlanta</keywords>
+</metadata>
+
+
+<wpt lat="33.75942" lon="-84.38688">
+<name>Peachtree Center</name>
+<desc>Welcome to Atlanta! Start your tour in the heart of Atlanta - near Peachtree Center.  Here is where you will find the Hard Rock Cafe on the corner of intersection in Peachtree Street and International Boulevard. To continue the tour take a left on Peachtree Street, heading south towards Woodruff Park.</desc>
+<link href="Data/Location95-1"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.75616" lon="-84.38855">
+<name>Woodruff Park</name>
+<desc>Ahead you will pass by Woodruff Park which is always crowded with business people eating thier lunch, Georgia State University students escaping their urban campus and hords homeless people wandering about.  Continue the tour by turning left on Auburn Ave.  Head east on Auburn avenue towards the Apex Museum .</desc>
+<link href="Data/Location95-2"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.75528" lon="-84.38343">
+<name>Sweet Auburn</name>
+<desc>In the early 1900's, Sweet Auburn neighborhood was the cetner of African-American commerce and culture in Atlanta.  Ahead on the right is the Apex Museum which preserves this historical prespective.  Continue the tour on driving on Auburn Avenue towards the Martin Luther King Historic District.</desc>
+<link href="Data/Location95-3"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.75548" lon="-84.37325">
+<name>Ebenezer Baptist Church</name>
+<desc>Your are approaching, the Martin Luther King Historic District, including Ebenezer Baptist Church the Spiritural home of  Dr. King. The King Center is a living memorial dedicated to the advancement of his legacy. Continue the tour by taking a right Boulevard, heading south on Boulevard towards Grant Park.</desc>
+<link href="Data/Location95-4"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.73567" lon="-84.36895">
+<name>Grant Park</name>
+<desc>Grant Park is home to the Atlanta Zoo and the Cyclorama. The Cyclorama hosts Civil War exhibits, including a 360 degree mural immersing you in the Battle of Atlanta. The Atlanta Zoo is home to a family of Pandas. To continue the tour circumnavagate the Park making right turns at the next two traffic lights then turn left on Georgia Avenue.</desc>
+<link href="Data/Location95-5"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.73694" lon="-84.38938">
+<name>Turner Field</name>
+<desc>This is Turner Field, home to the Atlanta Braves.  This staduim was completed in time to host the opening and closing ceremonies of the 1996 Olympics.. Continue on Georgia Avenue, driving straight, under the interstate, then turn right, heading north, on Central Avenue.</desc>
+<link href="Data/Location95-6"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.75153" lon="-84.39004">
+<name>Underground</name>
+<desc>You are approaching Underground Atlanta where you can walk through part of Atlanta how it used to be.  Six historic blocks have been unearthed and now offer unique shopping and nightlife.  Continue the tour by turning left on Martin Luther King Boulevard, heading West to the Georgia Dome and World Congress Center.</desc>
+<link href="Data/Location95-7"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.75526" lon="-84.40173">
+<name>Georgia Dome</name>
+<desc>Georgia Dome is home to the Atlanta Falcons, two Superbowls, numerous other collegiate and professional sporting events.  Tours of the worlds largest cable-supported domed stadium offer unique insight on what goes on before, during and after, big events.  Continue the tour by turning right and go north on Northside Drive.</desc>
+<link href="Data/Location95-8"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.76259" lon="-84.40183">
+<name>Georgia World Congress Center</name>
+<desc>You are traveling on the Loop around the Georgia World Congress Center. Turn right on Simpson Street then continue on the loop veering onto Jones Avenue.  The Georgia World Congress Center campus, which includes the Georgia Dome and Centennial Olympic Park, ranks among the top five largest convention destinations in the country. Again, turn right on Simpson Street then continue on the loop veering onto Jones Avenue, taking you to the Georgia Acquarium.</desc>
+<link href="Data/Location95-9"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.76439" lon="-84.39593">
+<name>Georgia Aquarium</name>
+<desc>You are approaching the Georgia Aquuarim, the largest aquarium in the world and home to some of the largest fish in captivity. Continue the tour, driving straight.</desc>
+<link href="Data/Location95-10"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.76458" lon="-84.39206">
+<name>World of Coca-cola</name>
+<desc>You are approaching the new location of the World of Coca-cola, where memorbilia and advertising exhibits and mock botteling operations celebrate one of America's favorite beverages.  To continue the tour turn right on Centinial Olympic Park Drive.</desc>
+<link href="Data/Location95-11"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.76102" lon="-84.39214">
+<name>Centennial Olympic Park</name>
+<desc>On your right is Centennial Olympic Park, another legacy of the 1996 Olympics.  Ahead you will see the Fountain of Rings.  The fountains will display a show four times daily, providing cooling wet fun for everyone on hot days.  To continue the tour, stay on Centennial Park Drive veering right, heading towards CNN Center.</desc>
+<link href="Data/Location95-12"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+
+<wpt lat="33.75762" lon="-84.39449">
+<name>CNN</name>
+<desc>To complete your tour of Atlanta, follow the signs to CNN cernter.  Inside CNN you may tour the cable news network broadcasting facilities, immersing yourself in history and being a part of the present as news is televised around the world.  Parking is available on your left across from the center.</desc>
+<link href="Data/Location95-13"/>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>152.4</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+</gpx>
